@@ -68,6 +68,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{83848400
 		..\build\version.cake = ..\build\version.cake
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostingConfigTest", "FrostingConfigTest\FrostingConfigTest.csproj", "{025EDC7C-0B11-4B35-A0DE-0E654DE23A19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -134,6 +136,10 @@ Global
 		{B155E9B1-5F3E-4AA2-B0E1-A9F43601F5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B155E9B1-5F3E-4AA2-B0E1-A9F43601F5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B155E9B1-5F3E-4AA2-B0E1-A9F43601F5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025EDC7C-0B11-4B35-A0DE-0E654DE23A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025EDC7C-0B11-4B35-A0DE-0E654DE23A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025EDC7C-0B11-4B35-A0DE-0E654DE23A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025EDC7C-0B11-4B35-A0DE-0E654DE23A19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
